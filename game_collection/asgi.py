@@ -1,5 +1,5 @@
 """
-ASGI config for LOGIKA_DJANGO_ORM_FIRT_CODE project.
+ASGI config for game_collection project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'LOGIKA_DJANGO_ORM_FIRT_CODE.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'game_collection.settings')
 
 application = get_asgi_application()

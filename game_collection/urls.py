@@ -1,5 +1,5 @@
 """
-URL configuration for LOGIKA_DJANGO_ORM_FIRT_CODE project.
+URL configuration for game_collection project.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/5.2/topics/http/urls/
